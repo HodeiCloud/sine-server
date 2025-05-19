@@ -24,11 +24,11 @@ En la raíz del proyecto, crea un archivo llamado:
 Y añade la siguiente estructura:
 
 ```env
-DB_HOST=            # Host de la base de datos
-DB_PORT=            # Puerto de la base de datos
-DB_USER=            # Usuario de la base de datos
-DB_PASSWORD=        # Contraseña de acceso a la base de datos
-DB_NAME=            # Nombre de la base de datos
+MYSQLHOST=            # Host de la base de datos
+MYSQLPORT=            # Puerto de la base de datos
+MYSQLUSER=            # Usuario de la base de datos
+MYSQLPASSWORD=        # Contraseña de acceso a la base de datos
+MYSQLDATABASE=            # Nombre de la base de datos
 ```
 
 > Sustituye cada valor por tus credenciales reales.
