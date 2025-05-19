@@ -28,7 +28,7 @@ MYSQLHOST=            # Host de la base de datos
 MYSQLPORT=            # Puerto de la base de datos
 MYSQLUSER=            # Usuario de la base de datos
 MYSQLPASSWORD=        # Contraseña de acceso a la base de datos
-MYSQLDATABASE=            # Nombre de la base de datos
+MYSQLDATABASE=        # Nombre de la base de datos
 ```
 
 > Sustituye cada valor por tus credenciales reales.
